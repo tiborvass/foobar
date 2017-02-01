@@ -1,3 +1,3 @@
 package baz
 
-const X = "baz"
+const X = "vendored-baz"
